@@ -34,3 +34,11 @@ Above picture shows how the forecasting is done. The problem is converted to a s
 
 <img src="https://raw.githubusercontent.com/tariqmhmd5/Covid-Prediction/master/Diagrams/image.png"
      style="float: left; margin-right: 10px;" />
+     
+     
+
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+
